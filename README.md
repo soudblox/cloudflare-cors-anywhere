@@ -1,7 +1,7 @@
 # cloudflare-cors-anywhere
 Cloudflare CORS proxy in a worker.
 
-CLOUDFLARE-CORS-ANYWHERE
+CLOUDFLARE-CORS-ANYWHEREE
 
 Source:
 https://github.com/Zibri/cloudflare-cors-anywhere
